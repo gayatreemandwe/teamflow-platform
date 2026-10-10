@@ -211,12 +211,6 @@ Backend → Can be deployed on Railway
 
 - Deployed frontend using Vercel
 
-## Contact
-
-Vaishnavi
-
-GitHub: https://github.com/Vaishnavi10706
-
 ## Support
 
 If you like this project, give it a ⭐ on GitHub!
